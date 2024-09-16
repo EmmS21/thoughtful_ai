@@ -3,3 +3,4 @@ openai
 scikit-learn
 python-dotenv
 pytest
+sentence_transformers
