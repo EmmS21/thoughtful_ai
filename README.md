@@ -21,7 +21,7 @@
 
 3. Run the Streamlit version:
    ```
-   streamlit run src/app.py streamlit
+   streamlit run src/app.py
    ```
 
 ## Running Tests
